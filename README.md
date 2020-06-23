@@ -4,8 +4,8 @@ Implementation of algorithms and content in The Deep Learning Book by Bengio, Go
 Framework : PyTorch 
 
 ## Part 1 : Applied Math and Machine Learning Basics 
-Chapter 2: Linear Algebra 
-Chapter 3: Probability and Information Theory
+- Chapter 2: Linear Algebra 
+- Chapter 3: Probability and Information Theory
 Chapter 4: Numerical Computation
 Chapter 5: Machine Learning Basics 
 
